@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#adicionado por liosvaldo
+main_joao.ipynb
